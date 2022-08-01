@@ -1,4 +1,4 @@
-# Patika.Dev SQL - Homework 5
+# Patika.Dev SQL - Homework 6
 
 #### Aşağıdaki sorgu senaryolarını **dvdrental** örnek veri tabanı üzerinden gerçekleştiriniz.
 
